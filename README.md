@@ -55,8 +55,8 @@ The app helps users decide whether supermarket products are suitable for them, t
 
 ## Figma Prototype
 You can view and interact with the prototype here:  
-[Figma Prototype Link] https://www.figma.com/proto/RjZs6oYwF1OMk274tV5mpC/Prototipo?node-id=157-729&t=6iGYFHl7hZgspNVY-1&scaling=scale-down&page-id=0%3A1&starting-point-
-node-id=1%3A832
+[Figma Prototype Link] 
+https://www.figma.com/proto/RjZs6oYwF1OMk274tV5mpC/Prototipo?node-id=157-729&t=6iGYFHl7hZgspNVY-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A832
 
 ## Tools Used
 - Design and prototyping: Figma  
