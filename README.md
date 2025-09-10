@@ -26,23 +26,23 @@ The app helps users decide whether supermarket products are suitable for them, t
 ![Home page](images/Home_page.png)
 
 ### Register page
-![Scan Screen](images/Register page.png)
+![Scan Screen](images/Register_page.png)
 
 ### Scan page
-![Scan Screen](images/scan page.png)
-![Scan Screen](images/scan2 page.png)
+![Scan Screen](images/scan_page.png)
+![Scan Screen](images/scan2_page.png)
 
-### Consultation with nutricionist
-![Consultation page](images/consultation with a nutritionist page.png)
+### Consultation with nutritionist
+![Consultation page](images/consultation_nutritionist_page.png)
 
 ### Shopping cart page
-![Shopping cart page](images/shopping cart page.png)
+![Shopping cart page](images/shopping_cart_page.png)
 
 ### Recipe pack page
-![recipe pack page](images/recipe pack page.png)
+![recipe pack page](images/recipe_pack_page.png)
 
 ### Recipe page
-![recipe page](images/recipe page.png)
+![recipe page](images/recipe_page.png)
 
 ### History page
 ![history page]images/(history_page.png)
