@@ -23,7 +23,7 @@ The app helps users decide whether supermarket products are suitable for them, t
 ## Screenshots
 
 ### Home page
-![Home page](images/Home page.png)
+![Home page](images/Home_page.png)
 
 ### Register page
 ![Scan Screen](images/Register page.png)
