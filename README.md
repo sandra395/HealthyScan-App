@@ -63,88 +63,78 @@ https://www.figma.com/proto/RjZs6oYwF1OMk274tV5mpC/Prototipo?node-id=157-729&t=6
 - Design and prototyping: Figma  
 - User-centered interaction and usability testing
 
-- 🚀 Future Improvements & Planned Redesign
+  ## Future Improvements & Planned Redesign
 
 The current design is functional but can be enhanced for usability, aesthetics, and user experience. Planned improvements include:
 
-🎨 Color & Contrast
+## Color & Contrast
 
-Cohesive, modern color palette.
+-Cohesive, modern color palette.
 
-Sufficient contrast for accessibility.
+-Sufficient contrast for accessibility.
 
-Subtle gradients or accent colors for visual interest.
+-Subtle gradients or accent colors for visual interest.
 
-📝 Input Fields
+## Input Fields
 
-Larger fields with more padding.
+-Larger fields with more padding.
 
-Rounded corners, subtle shadows, and active state highlights.
+-Rounded corners, subtle shadows, and active state highlights.
 
-Inline validation with visual feedback.
+-Inline validation with visual feedback.
 
-🔤 Typography
+## Typography
 
-Clean, modern fonts.
+-Clean, modern fonts.
 
-Clear hierarchy with headings, labels, and buttons.
+-Clear hierarchy with headings, labels, and buttons.
 
-Increased line spacing and font size.
+-Increased line spacing and font size.
 
-🧭 Navigation
+## Navigation
 
-Larger, evenly spaced icons.
+-Larger, evenly spaced icons.
 
-Clear active tab indicators.
+-Clear active tab indicators.
 
-Optional sticky navigation for long forms.
+-Optional sticky navigation for long forms.
 
-📋 Form Layout
+## Form Layout
 
-Group related fields with subtle boxes or cards.
+-Consistent spacing and visual separation.
 
-Consistent spacing and visual separation.
+## Visual Hierarchy
 
-Tooltips or helper text for complex fields.
+-Prominent headings and section titles.
 
-💡 Visual Hierarchy
+-Spacing or separators to guide the eye.
 
-Prominent headings and section titles.
+## Buttons & Interactions
 
-Spacing or separators to guide the eye.
+-Rounded buttons with subtle shadows.
 
-Progress indicators for multi-step forms.
+-Hover, focus, and click animations.
 
-🔘 Buttons & Interactions
+-Distinct primary vs secondary actions.
 
-Rounded buttons with subtle shadows.
+##  Accessibility
 
-Hover, focus, and click animations.
+-Full keyboard navigation.
 
-Distinct primary vs secondary actions.
+-ARIA labels for screen readers.
 
-♿ Accessibility
+-Tested color contrast and font sizes.
 
-Full keyboard navigation.
+## Responsiveness
 
-ARIA labels for screen readers.
+-Optimized layout for mobile and tablet.
 
-Tested color contrast and font sizes.
+-Flexible grids/cards for small screens.
 
-📱 Responsiveness
+-Adequate touch targets.
 
-Optimized layout for mobile and tablet.
+## Additional Enhancements
 
-Flexible grids/cards for small screens.
+-Smooth animations and transitions.
 
-Adequate touch targets.
-
-✨ Additional Enhancements
-
-Dark mode support.
-
-Subtle micro-interactions for better UX.
-
-Smooth animations and transitions.
-
-Clear error handling with messages.
+-Clear error handling with messages.
