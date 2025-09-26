@@ -61,4 +61,90 @@ https://www.figma.com/proto/RjZs6oYwF1OMk274tV5mpC/Prototipo?node-id=157-729&t=6
 
 ## Tools Used
 - Design and prototyping: Figma  
-- User-centered interaction and usability testing  
+- User-centered interaction and usability testing
+
+- 🚀 Future Improvements & Planned Redesign
+
+The current design is functional but can be enhanced for usability, aesthetics, and user experience. Planned improvements include:
+
+🎨 Color & Contrast
+
+Cohesive, modern color palette.
+
+Sufficient contrast for accessibility.
+
+Subtle gradients or accent colors for visual interest.
+
+📝 Input Fields
+
+Larger fields with more padding.
+
+Rounded corners, subtle shadows, and active state highlights.
+
+Inline validation with visual feedback.
+
+🔤 Typography
+
+Clean, modern fonts.
+
+Clear hierarchy with headings, labels, and buttons.
+
+Increased line spacing and font size.
+
+🧭 Navigation
+
+Larger, evenly spaced icons.
+
+Clear active tab indicators.
+
+Optional sticky navigation for long forms.
+
+📋 Form Layout
+
+Group related fields with subtle boxes or cards.
+
+Consistent spacing and visual separation.
+
+Tooltips or helper text for complex fields.
+
+💡 Visual Hierarchy
+
+Prominent headings and section titles.
+
+Spacing or separators to guide the eye.
+
+Progress indicators for multi-step forms.
+
+🔘 Buttons & Interactions
+
+Rounded buttons with subtle shadows.
+
+Hover, focus, and click animations.
+
+Distinct primary vs secondary actions.
+
+♿ Accessibility
+
+Full keyboard navigation.
+
+ARIA labels for screen readers.
+
+Tested color contrast and font sizes.
+
+📱 Responsiveness
+
+Optimized layout for mobile and tablet.
+
+Flexible grids/cards for small screens.
+
+Adequate touch targets.
+
+✨ Additional Enhancements
+
+Dark mode support.
+
+Subtle micro-interactions for better UX.
+
+Smooth animations and transitions.
+
+Clear error handling with messages.
