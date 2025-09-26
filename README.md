@@ -1,6 +1,7 @@
 # HealthyScan-App
 
-**HealthyScan** is a mobile application developed as part of a Final Degree Project. Its main goal is to answer the research question:  
+
+**HealthyScan** is a mobile application prototype developed as part of a Final Degree Project. Its goal is to answer:  
 *How can an app help improve nutrition by considering an individual's habits and health status?*
 
 The app helps users decide whether supermarket products are suitable for them, taking into account their health conditions and personal habits, aiming to improve nutrition and support overall health and well-being.
